@@ -1097,7 +1097,3 @@ AI-assisted decision support for clearer purchase decisions.
 
 **Shop with more clarity.**
 
-```
-
-**THIS** is the one to copy directly into `README.md`. No extra text needed inside GitHub. 🔥
-```
