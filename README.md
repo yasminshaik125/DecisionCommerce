@@ -1,6 +1,3 @@
-YES bruh 😭 I understand now — you want **ONE complete README.md CODE BLOCK**, so you can **copy → paste directly into GitHub**. No explanation mixed into it.
-
-````markdown
 # DecisionCommerce
 
 ### AI-Assisted Decision Support for Clearer Purchase Decisions
